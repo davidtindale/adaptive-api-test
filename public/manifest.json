@@ -1,0 +1,14 @@
+{
+  "name": "Adaptive API Test",
+  "icons": [
+    {
+      "src": "icon-240m.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    }
+  ],
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#0f4a73",
+  "background_color": "#ffffff"
+}
